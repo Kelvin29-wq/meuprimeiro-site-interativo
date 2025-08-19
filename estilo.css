@@ -1,0 +1,26 @@
+body {
+    background: rgb(44, 191, 220);
+    font: normal 15pt Cascadia Code ;
+
+}
+
+header {
+    color: white;
+}
+
+section{
+    background: white;
+    border-radius: 10px; /*Para arendonda a borda onde está escrito o texto*/
+    padding: 20px;/* é pra dar um espaço*/
+    width: 500px;
+    margin: auto; /*centralizar a caixa da section*/
+    box-shadow: rgba(0, 0, 0, 0.337) 3px 3px 10px; /* sombra*/
+    
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
